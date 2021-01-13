@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFinalProj</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="not_account_yet">Not account yet?</string>
+    <string name="create">Create</string>
+    <string name="count_favorite_videos">Count Favorite Videos</string>
+    <string name="title">Title</string>
+    <string name="discription">Discription</string>
+    <string name="likes">Likes</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="registration">Registration</string>
+</resources>
